@@ -6,21 +6,13 @@
 * {
   box-sizing: border-box;
 }
-#box {
-  border: 1px solid black;
-  text-align: center;
-  width: 30%;
-  margin-left: 70%;
-  font-family: Georgia,sans-serif;
-  font-weight: bold;
-  font-size: 125%;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding: 5px;
-}
 h1 {
-  margin-bottom: 15px;
+  margin-top: 30px; 
+  margin-bottom: 40px;
   text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 2em;
 }
 div{
   position: relative;
@@ -28,18 +20,18 @@ div{
 p {
   border: 1px solid black;
   background-color: #A52A2A;
-  height: 200px;
-  padding-top: 28px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding: 40px 15px 20px 15px;
+  height:200px;
   margin-right: 15px;
   margin-left: 15px;
+  font-size: 1.2em;
   font-family: Helvetica;
   color: white;
-  overflow:auto;  
+  overflow:auto;
+  float: left;  
 }
 p.newstitle{
-  color: red;
+  color:#A52A2A;
   background: white;
   height: 25px;
   width: 100px;
