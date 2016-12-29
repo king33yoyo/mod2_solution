@@ -10,16 +10,12 @@ h1 {
   margin-bottom: 15px;
   text-align: center;
 }
-div {
-   position:relative;
-   overflow:auto;  
-}
 p {
   border: 1px solid black;
   background-color: #A52A2A;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
+  height: 200px;
+  margin-right: 15px;
+  margin-left: 15px;
   font-family: Helvetica;
   color: white;
   overflow:auto;  
