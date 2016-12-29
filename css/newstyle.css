@@ -10,10 +10,9 @@ h1 {
   margin-bottom: 15px;
   text-align: center;
 }
-div{
-   position：relative;
-   overflow:auto;
-  
+div {
+   position:relative;
+   overflow:auto;  
 }
 p {
   border: 1px solid black;
@@ -24,6 +23,7 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+  overflow:auto;  
 }
 
 /* Simple Responsive Framework. */
